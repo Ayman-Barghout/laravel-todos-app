@@ -48,14 +48,18 @@
                 font-size: 84px;
             }
 
-            .links > a {
+            a {
                 color: #636b6f;
                 padding: 0 25px;
-                font-size: 13px;
-                font-weight: 600;
+                font-weight: 300;
                 letter-spacing: .1rem;
                 text-decoration: none;
                 text-transform: uppercase;
+                transition: all .3s ease-in-out;
+            }
+
+            a:hover {
+                font-weight: 600;
             }
 
             .m-b-md {
@@ -81,7 +85,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Todos App
+                    <a href="/todos">Todos App</a>
                 </div>
             </div>
         </div>
