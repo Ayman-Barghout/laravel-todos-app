@@ -1,6 +1,6 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-#Todo App
+# Todo App
 
 A dummy App created with PHP using the Laravel Framework as a learning experience.
 

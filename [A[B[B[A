@@ -1,0 +1,17 @@
+[33mcommit ca77c885797a218848ae48457a6c4ae4e6c86a40[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Ayman-Barghout <pocean.development@gmail.com>
+Date:   Wed Jul 3 18:16:23 2019 +0200
+
+    updated the Readme.md file
+
+[33mcommit 053bf5bba066a4463fd0074698598e95e001bf4d[m
+Author: Ayman-Barghout <pocean.development@gmail.com>
+Date:   Wed Jul 3 18:12:55 2019 +0200
+
+    added the Todo model, factory, seeder and displaying all Todos
+
+[33mcommit bc3cd0c9238e880b3bee3ffeb679cbf35442aae9[m
+Author: Ayman-Barghout <pocean.development@gmail.com>
+Date:   Wed Jul 3 12:47:04 2019 +0200
+
+    Initial Commit
