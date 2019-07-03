@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-{{ $todo->name }}
+To-do: {{ $todo->name }}
 @endsection
 
 @section('content')

@@ -1,11 +1,11 @@
 @extends('layouts.app')
 
 @section('title')
-Todos
+Todos List
 @endsection
 
 @section('content')
-<h1 class="text-center my-5">TODOS PAGE</h1>
+<h1 class="text-center my-5">To-dos List</h1>
 <div class="row justify-content-center">
     <div class="col-md-8">
         <div class="card card-default">
