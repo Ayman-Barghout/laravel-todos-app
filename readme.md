@@ -4,6 +4,21 @@
 
 A dummy App created with PHP using the Laravel Framework as a learning experience.
 
+You can view it hosted @ [heroku](http://ayman-dev-larados.heroku.com "Title")
+
+## Description
+
+A full CRUD application for creating, checking, updating and deleting to-dos.
+
+### Technologies used
+
+* Laravel Framework (PHP, HTML, CSS, JS)
+* Bootstrap 4
+* VSCode
+* Git and Git Bash
+* Heroku for depolyment
+
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
