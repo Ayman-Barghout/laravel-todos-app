@@ -4,7 +4,7 @@
 
 A dummy App created with PHP using the Laravel Framework as a learning experience.
 
-You can view it hosted @ [heroku](http://ayman-dev-larados.heroku.com "Title")
+You can view it hosted @ [heroku](http://ayman-dev-larados.heroku.com "Heroku app")
 
 ## Description
 
