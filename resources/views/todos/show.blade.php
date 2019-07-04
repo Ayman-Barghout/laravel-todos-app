@@ -16,8 +16,14 @@ To-do: {{ $todo->name }}
             </div>
             <div class="card-body">
                 {{ $todo->description }}
+                <div class="row mt-5">
+                    <a href="/todos/{{ $todo->id }}/edit" class="btn btn-info col-md-6">Edit</a>
+                    <a href="/todos/{{ $todo->id }}/delete" class="btn btn-danger col-md-6">Delete</a>
+                </div>
             </div>
+
         </div>
+
     </div>
 </div>
 

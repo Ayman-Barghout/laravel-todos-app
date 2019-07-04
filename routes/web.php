@@ -22,3 +22,9 @@ Route::get('todos/{todo}', 'TodosController@show');
 Route::get('new-todo', 'TodosController@create');
 
 Route::post('store-todo', 'TodosController@store');
+
+Route::get('todos/{todo}/edit', 'TodosController@edit');
+
+Route::post('todos/{todo}/update-todo', 'TodosController@update');
+
+Route::get('todos/{todo}/delete', 'TodosController@delete');
