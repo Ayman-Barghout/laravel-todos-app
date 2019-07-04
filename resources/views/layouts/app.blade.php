@@ -47,7 +47,7 @@
         @endif
         @if(session()->has('deleted'))
         <div class="mt-3 alert alert-danger alert-dismissible fade show" role="alert">
-            <strong>Success! </strong>{{ session()->get('deleted') }}
+            <strong>Deleted! </strong>{{ session()->get('deleted') }}
             <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
             </button>
